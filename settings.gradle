@@ -1,0 +1,2 @@
+rootProject.name='MoviewBrowserOrt'
+include ':app'
